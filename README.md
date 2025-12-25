@@ -1,8 +1,14 @@
+
+
+
+
+
 <p>
+  <hr style="border: 1px solid #87CEEB;" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&width=600&lines=Computer+Science+Engineer;AI+%7C+Web+%7C+Automation+Developer;MCP+%26+AI+Agent+Enthusiast;Hackathon+Wins+%7C+Builder" />
+  <hr style="border: 1px solid #87CEEB;" />
 </p>
 
-<hr style="border: 1px solid #87CEEB;" />
 
 <div style="border: 2px solid #87CEEB; border-radius: 12px; padding: 18px; background-color: rgba(135, 206, 235, 0.08);">
 
