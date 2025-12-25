@@ -19,7 +19,7 @@ Experienced in building <b>real-world applications</b>, <b>AI-powered tools</b>,
 </p>
 
 <p>
-🚀 Passionate about MCP-based AI systems, scalable web apps, and CI/CD automation.  
+Passionate about MCP-based AI systems, scalable web apps, and CI/CD automation.  
 Always learning, building, and improving.
 </p>
 
