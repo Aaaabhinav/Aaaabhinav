@@ -15,4 +15,4 @@ Passionate about:
 - Automating workflows with **CI/CD**
 - Participating in **hackathons & tech challenges**
 
-Driven by curiosity, consistency, and a builder mindset 🚀
+Driven by curiosity,have a look at my projects pinned below let connect 🚀
