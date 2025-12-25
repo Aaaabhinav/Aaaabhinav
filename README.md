@@ -22,6 +22,7 @@ Computer Science Engineering student at <b>Nirma University (5th Semester)</b> w
 <p>
 Experienced in building <b>real-world applications</b>, <b>AI-powered tools</b>, and  
 <b>system-level simulations</b>.
+<b>Contributing and developing alongside fellow developers.</b>
 </p>
 
 <p>
