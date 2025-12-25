@@ -1,6 +1,4 @@
-## Hi there 👋
 
-🚀 Abhinav Dixit
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%7C+Web+%7C+Automation+Developer;MCP+%26+AI+Agent+Enthusiast;Hackathon+Finalist+%7C+Builder+Mindset" /> </p> <p align="center"> <a href="https://github.com/Aaaabhinav"> <img src="https://img.shields.io/github/followers/Aaaabhinav?label=Followers&style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/abhinav6427/"> <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Dixit-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:abhinav6427@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> </p>
 
 <!--
