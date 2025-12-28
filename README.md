@@ -1,14 +1,8 @@
-
-
-
-
-
 <p>
   <hr style="border: 1px solid #87CEEB;" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&width=600&lines=Computer+Science+Engineer;AI+%7C+Web+%7C+Automation+Developer;MCP+%26+AI+Agent+Enthusiast;Hackathon+Wins+%7C+Builder" />
   <hr style="border: 1px solid #87CEEB;" />
 </p>
-
 
 <div style="border: 2px solid #87CEEB; border-radius: 12px; padding: 18px; background-color: rgba(135, 206, 235, 0.08);">
 
@@ -21,13 +15,22 @@ Computer Science Engineering student at <b>Nirma University (5th Semester)</b> w
 
 <p>
 Experienced in building <b>real-world applications</b>, <b>AI-powered tools</b>, and  
-<b>system-level simulations</b>.
+<b>system-level simulations</b>.  
 <b>Contributing and developing alongside fellow developers.</b>
 </p>
 
 <p>
 Passionate about MCP-based AI systems, scalable web apps, and CI/CD automation.  
 Always learning, building, and improving.
+</p>
+
+<hr style="border: 1px solid #87CEEB;" />
+
+<p align="center">
+  🌐 <b>Portfolio:</b>  
+  <a href="https://portfolio-three-sigma-v3yn9gti0v.vercel.app/" target="_blank">
+    https://portfolio-three-sigma-v3yn9gti0v.vercel.app/
+  </a>
 </p>
 
 </div>
